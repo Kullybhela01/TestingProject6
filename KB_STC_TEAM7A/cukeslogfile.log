@@ -1,0 +1,1610 @@
+2021-01-14 11:09:20,467 INFO  [Log] **************************************************************************************** 
+2021-01-14 11:09:20,468 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket the product is available in the basket** 
+2021-01-14 11:09:20,468 INFO  [Log] **************************************************************************************** 
+2021-01-14 11:09:20,468 INFO  [Log] initialising properties.. 
+2021-01-14 11:09:20,468 INFO  [Log] Properties initialised! 
+2021-01-14 11:09:20,474 INFO  [Log] opening browser.. 
+2021-01-14 11:09:20,482 INFO  [Log] Chrome.. 
+2021-01-14 11:09:29,417 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-14 11:09:37,801 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-14 11:09:37,801 INFO  [Log] **************************************************************************************** 
+2021-01-14 11:09:37,801 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket the product is available in the basket              ** 
+2021-01-14 11:09:37,801 INFO  [Log] **************************************************************************************** 
+2021-01-14 11:29:08,479 INFO  [Log] **************************************************************************************** 
+2021-01-14 11:29:08,480 INFO  [Log] **                    START SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla** 
+2021-01-14 11:29:08,480 INFO  [Log] **************************************************************************************** 
+2021-01-14 11:29:08,480 INFO  [Log] initialising properties.. 
+2021-01-14 11:29:08,480 INFO  [Log] Properties initialised! 
+2021-01-14 11:29:08,483 INFO  [Log] opening browser.. 
+2021-01-14 11:29:08,483 INFO  [Log] Chrome.. 
+2021-01-14 11:29:14,556 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-14 11:29:37,697 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-14 11:29:37,698 INFO  [Log] **************************************************************************************** 
+2021-01-14 11:29:37,698 INFO  [Log] **                    END SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla              ** 
+2021-01-14 11:29:37,698 INFO  [Log] **************************************************************************************** 
+2021-01-14 12:57:11,437 INFO  [Log] **************************************************************************************** 
+2021-01-14 12:57:11,438 INFO  [Log] **                    START SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla** 
+2021-01-14 12:57:11,438 INFO  [Log] **************************************************************************************** 
+2021-01-14 12:57:11,438 INFO  [Log] initialising properties.. 
+2021-01-14 12:57:11,438 INFO  [Log] Properties initialised! 
+2021-01-14 12:57:11,441 INFO  [Log] opening browser.. 
+2021-01-14 12:57:11,441 INFO  [Log] Chrome.. 
+2021-01-14 12:57:18,500 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-14 12:57:30,272 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-14 12:57:30,272 INFO  [Log] **************************************************************************************** 
+2021-01-14 12:57:30,272 INFO  [Log] **                    END SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla              ** 
+2021-01-14 12:57:30,272 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:30:45,553 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:30:45,553 INFO  [Log] **                    START SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla** 
+2021-01-14 13:30:45,553 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:30:45,553 INFO  [Log] initialising properties.. 
+2021-01-14 13:30:45,553 INFO  [Log] Properties initialised! 
+2021-01-14 13:30:45,557 INFO  [Log] opening browser.. 
+2021-01-14 13:30:45,557 INFO  [Log] Chrome.. 
+2021-01-14 13:30:52,431 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-14 13:31:32,666 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-14 13:31:32,666 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:31:32,666 INFO  [Log] **                    END SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla              ** 
+2021-01-14 13:31:32,667 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:26,190 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:26,191 INFO  [Log] **                    START SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla** 
+2021-01-14 13:32:26,191 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:26,191 INFO  [Log] initialising properties.. 
+2021-01-14 13:32:26,191 INFO  [Log] Properties initialised! 
+2021-01-14 13:32:26,191 INFO  [Log] opening browser.. 
+2021-01-14 13:32:26,191 INFO  [Log] Chrome.. 
+2021-01-14 13:32:26,205 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:26,206 INFO  [Log] **                    START SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla** 
+2021-01-14 13:32:26,206 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:26,206 INFO  [Log] initialising properties.. 
+2021-01-14 13:32:26,206 INFO  [Log] Properties initialised! 
+2021-01-14 13:32:26,206 INFO  [Log] opening browser.. 
+2021-01-14 13:32:26,206 INFO  [Log] Chrome.. 
+2021-01-14 13:32:34,162 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-14 13:32:34,223 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-14 13:32:39,350 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-14 13:32:39,351 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:39,351 INFO  [Log] **                    END SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla              ** 
+2021-01-14 13:32:39,351 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:59,914 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-14 13:32:59,914 INFO  [Log] **************************************************************************************** 
+2021-01-14 13:32:59,914 INFO  [Log] **                    END SCENARIO EXECUTION Verify that the user can sign in successfully in to Zoopla              ** 
+2021-01-14 13:32:59,914 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:00:53,576 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:00:53,578 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 10:00:53,578 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:00:53,578 INFO  [Log] initialising properties.. 
+2021-01-15 10:00:53,578 INFO  [Log] Properties initialised! 
+2021-01-15 10:00:53,578 INFO  [Log] opening browser.. 
+2021-01-15 10:00:53,578 INFO  [Log] Chrome.. 
+2021-01-15 10:01:00,943 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 10:01:09,465 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 10:01:09,465 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:01:09,466 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 10:01:09,466 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:17:15,642 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:17:15,644 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 10:17:15,644 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:17:15,644 INFO  [Log] initialising properties.. 
+2021-01-15 10:17:15,644 INFO  [Log] Properties initialised! 
+2021-01-15 10:17:15,644 INFO  [Log] opening browser.. 
+2021-01-15 10:17:15,644 INFO  [Log] Chrome.. 
+2021-01-15 10:17:22,720 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 10:17:32,628 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 10:17:32,628 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:17:32,628 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 10:17:32,628 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:20:32,866 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:20:32,867 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 10:20:32,867 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:20:32,867 INFO  [Log] initialising properties.. 
+2021-01-15 10:20:32,867 INFO  [Log] Properties initialised! 
+2021-01-15 10:20:32,867 INFO  [Log] opening browser.. 
+2021-01-15 10:20:32,867 INFO  [Log] Chrome.. 
+2021-01-15 10:20:39,889 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 10:20:45,581 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 10:20:45,581 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:20:45,581 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 10:20:45,581 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:38:27,153 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:38:27,154 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 10:38:27,154 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:38:27,155 INFO  [Log] initialising properties.. 
+2021-01-15 10:38:27,155 INFO  [Log] Properties initialised! 
+2021-01-15 10:38:27,155 INFO  [Log] opening browser.. 
+2021-01-15 10:38:27,155 INFO  [Log] Chrome.. 
+2021-01-15 10:38:33,969 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 10:38:39,350 INFO  [Log] Checking test run mode 
+2021-01-15 10:38:39,350 INFO  [Log] Starting test 
+2021-01-15 10:38:39,352 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 10:38:39,352 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:38:39,352 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 10:38:39,352 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:55:28,411 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:55:28,412 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 10:55:28,412 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:55:28,413 INFO  [Log] initialising properties.. 
+2021-01-15 10:55:28,413 INFO  [Log] Properties initialised! 
+2021-01-15 10:55:28,413 INFO  [Log] opening browser.. 
+2021-01-15 10:55:28,413 INFO  [Log] Chrome.. 
+2021-01-15 10:55:35,823 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 10:55:42,086 INFO  [Log] Checking test run mode 
+2021-01-15 10:55:42,086 INFO  [Log] Starting test 
+2021-01-15 10:55:42,089 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 10:55:42,089 INFO  [Log] **************************************************************************************** 
+2021-01-15 10:55:42,089 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 10:55:42,089 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:03:31,120 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:03:31,122 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 11:03:31,122 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:03:31,122 INFO  [Log] initialising properties.. 
+2021-01-15 11:03:31,122 INFO  [Log] Properties initialised! 
+2021-01-15 11:03:31,124 INFO  [Log] opening browser.. 
+2021-01-15 11:03:31,124 INFO  [Log] Chrome.. 
+2021-01-15 11:03:38,305 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 11:03:43,079 INFO  [Log] Checking test run mode 
+2021-01-15 11:03:43,079 INFO  [Log] Starting test 
+2021-01-15 11:03:43,082 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 11:03:43,083 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:03:43,083 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 11:03:43,083 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:09:39,566 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:09:39,566 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 11:09:39,567 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:09:39,567 INFO  [Log] initialising properties.. 
+2021-01-15 11:09:39,567 INFO  [Log] Properties initialised! 
+2021-01-15 11:09:39,569 INFO  [Log] opening browser.. 
+2021-01-15 11:09:39,569 INFO  [Log] Chrome.. 
+2021-01-15 11:09:46,919 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 11:09:52,682 INFO  [Log] Checking test run mode 
+2021-01-15 11:09:52,683 INFO  [Log] Starting test 
+2021-01-15 11:09:52,683 INFO  [Log] opening browser.. 
+2021-01-15 11:09:52,683 INFO  [Log] Chrome.. 
+2021-01-15 11:09:58,148 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 11:09:58,148 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:09:58,148 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 11:09:58,148 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:14:45,244 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:14:45,244 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 11:14:45,244 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:14:45,244 INFO  [Log] initialising properties.. 
+2021-01-15 11:14:45,244 INFO  [Log] Properties initialised! 
+2021-01-15 11:14:45,244 INFO  [Log] opening browser.. 
+2021-01-15 11:14:45,244 INFO  [Log] Chrome.. 
+2021-01-15 11:14:51,342 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 11:14:56,755 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 11:14:56,755 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:14:56,755 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 11:14:56,755 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:27:03,291 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:27:03,291 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 11:27:03,291 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:27:03,291 INFO  [Log] initialising properties.. 
+2021-01-15 11:27:03,291 INFO  [Log] Properties initialised! 
+2021-01-15 11:27:03,291 INFO  [Log] opening browser.. 
+2021-01-15 11:27:03,291 INFO  [Log] Chrome.. 
+2021-01-15 11:27:09,465 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 11:27:12,966 INFO  [Log] Get to the website..... 
+2021-01-15 11:27:12,966 INFO  [Log] Loading Home Page 
+2021-01-15 11:27:12,966 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 11:27:13,394 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 11:27:14,411 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 11:27:14,426 INFO  [Log] User is on the home page 
+2021-01-15 11:27:14,427 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 11:27:14,427 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:27:14,427 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 11:27:14,427 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:27:54,998 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:27:54,999 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 11:27:54,999 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:27:54,999 INFO  [Log] initialising properties.. 
+2021-01-15 11:27:54,999 INFO  [Log] Properties initialised! 
+2021-01-15 11:27:54,999 INFO  [Log] opening browser.. 
+2021-01-15 11:27:54,999 INFO  [Log] Chrome.. 
+2021-01-15 11:28:01,089 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 11:28:06,132 INFO  [Log] Get to the website..... 
+2021-01-15 11:28:06,132 INFO  [Log] Loading Home Page 
+2021-01-15 11:28:06,132 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 11:28:06,438 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 11:28:07,493 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 11:28:07,511 INFO  [Log] User is on the home page 
+2021-01-15 11:28:07,513 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 11:28:07,513 INFO  [Log] **************************************************************************************** 
+2021-01-15 11:28:07,513 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 11:28:07,514 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:35:34,684 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:35:34,685 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:35:34,685 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:35:34,685 INFO  [Log] initialising properties.. 
+2021-01-15 12:35:34,685 INFO  [Log] Properties initialised! 
+2021-01-15 12:35:34,685 INFO  [Log] opening browser.. 
+2021-01-15 12:35:34,685 INFO  [Log] Chrome.. 
+2021-01-15 12:35:40,921 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:35:48,524 INFO  [Log] Get to the website..... 
+2021-01-15 12:35:48,524 INFO  [Log] Loading Home Page 
+2021-01-15 12:35:48,524 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:35:48,816 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:35:50,040 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:35:50,215 INFO  [Log] User is on the home page 
+2021-01-15 12:35:50,218 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:35:50,218 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:35:50,219 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:35:50,219 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:40:19,664 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:40:19,670 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:40:19,671 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:40:19,671 INFO  [Log] initialising properties.. 
+2021-01-15 12:40:19,671 INFO  [Log] Properties initialised! 
+2021-01-15 12:40:19,675 INFO  [Log] opening browser.. 
+2021-01-15 12:40:19,675 INFO  [Log] Chrome.. 
+2021-01-15 12:40:27,041 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:40:33,553 INFO  [Log] Get to the website..... 
+2021-01-15 12:40:33,553 INFO  [Log] Loading Home Page 
+2021-01-15 12:40:33,553 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:40:33,996 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:40:35,022 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:40:35,041 INFO  [Log] User is on the home page 
+2021-01-15 12:40:35,047 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:40:35,047 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:40:35,047 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:40:35,047 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:43:25,703 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:43:25,703 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:43:25,706 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:43:25,706 INFO  [Log] initialising properties.. 
+2021-01-15 12:43:25,706 INFO  [Log] Properties initialised! 
+2021-01-15 12:43:25,706 INFO  [Log] opening browser.. 
+2021-01-15 12:43:25,706 INFO  [Log] Chrome.. 
+2021-01-15 12:43:32,824 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:43:50,733 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:43:50,734 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:43:50,734 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:43:50,735 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:45:19,821 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:45:19,822 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:45:19,822 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:45:19,822 INFO  [Log] initialising properties.. 
+2021-01-15 12:45:19,822 INFO  [Log] Properties initialised! 
+2021-01-15 12:45:19,824 INFO  [Log] opening browser.. 
+2021-01-15 12:45:19,825 INFO  [Log] Chrome.. 
+2021-01-15 12:45:27,569 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:45:41,287 INFO  [Log] Get to the website..... 
+2021-01-15 12:45:41,287 INFO  [Log] Loading Home Page 
+2021-01-15 12:45:41,287 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:45:42,077 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:45:43,126 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:45:43,178 INFO  [Log] User is on the home page 
+2021-01-15 12:45:43,191 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:45:43,191 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:45:43,191 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:45:43,191 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:48:39,962 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:48:39,963 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:48:39,963 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:48:39,963 INFO  [Log] initialising properties.. 
+2021-01-15 12:48:39,963 INFO  [Log] Properties initialised! 
+2021-01-15 12:48:39,967 INFO  [Log] opening browser.. 
+2021-01-15 12:48:39,967 INFO  [Log] Chrome.. 
+2021-01-15 12:48:47,042 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:48:58,479 INFO  [Log] Get to the website..... 
+2021-01-15 12:48:58,479 INFO  [Log] Loading Home Page 
+2021-01-15 12:48:58,479 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:48:59,339 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:49:00,405 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:49:00,435 INFO  [Log] User is on the home page 
+2021-01-15 12:49:00,436 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 12:49:00,436 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchForm:searchTerm"] 
+2021-01-15 12:49:00,627 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:49:00,627 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:49:00,627 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:49:00,627 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:50:09,903 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:50:09,904 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:50:09,904 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:50:09,904 INFO  [Log] initialising properties.. 
+2021-01-15 12:50:09,905 INFO  [Log] Properties initialised! 
+2021-01-15 12:50:09,908 INFO  [Log] opening browser.. 
+2021-01-15 12:50:09,908 INFO  [Log] Chrome.. 
+2021-01-15 12:50:17,341 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:50:27,331 INFO  [Log] Get to the website..... 
+2021-01-15 12:50:27,331 INFO  [Log] Loading Home Page 
+2021-01-15 12:50:27,331 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:50:27,674 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:50:28,749 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:50:28,917 INFO  [Log] User is on the home page 
+2021-01-15 12:50:28,918 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 12:50:28,918 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:50:29,163 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 12:50:29,164 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:50:29,295 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 12:50:29,296 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 12:50:29,573 INFO  [Log] Clicking object - searchButton 
+2021-01-15 12:50:29,631 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:50:29,631 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:50:29,631 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:50:29,632 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:51:26,853 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:51:26,854 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:51:26,854 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:51:26,854 INFO  [Log] initialising properties.. 
+2021-01-15 12:51:26,854 INFO  [Log] Properties initialised! 
+2021-01-15 12:51:26,856 INFO  [Log] opening browser.. 
+2021-01-15 12:51:26,856 INFO  [Log] Chrome.. 
+2021-01-15 12:51:34,106 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:51:49,758 INFO  [Log] Get to the website..... 
+2021-01-15 12:51:49,759 INFO  [Log] Loading Home Page 
+2021-01-15 12:51:49,759 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:51:50,486 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:51:51,543 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:51:51,592 INFO  [Log] User is on the home page 
+2021-01-15 12:51:51,600 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 12:51:51,600 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:51:51,948 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 12:51:51,948 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:51:52,198 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 12:51:52,199 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 12:51:52,665 INFO  [Log] Clicking object - searchButton 
+2021-01-15 12:51:59,326 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 12:51:59,326 INFO  [Log] Clicking object - addButton 
+2021-01-15 12:52:05,376 INFO  [Log] Click on Product Basket 
+2021-01-15 12:52:05,377 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 12:52:06,898 INFO  [Log] element click intercepted: Element <i class="icon-cart"></i> is not clickable at point (1415, 8). Other element would receive the click: <div class="ensBannerContainer">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59621}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1514e7be4b1dc38c1a15e2800e91a7f9 
+2021-01-15 12:52:06,898 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 12:52:06,898 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 12:52:06,898 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:52:06,898 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:52:06,898 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:52:06,898 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:53:26,311 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:53:26,312 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:53:26,312 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:53:26,312 INFO  [Log] initialising properties.. 
+2021-01-15 12:53:26,312 INFO  [Log] Properties initialised! 
+2021-01-15 12:53:26,315 INFO  [Log] opening browser.. 
+2021-01-15 12:53:26,315 INFO  [Log] Chrome.. 
+2021-01-15 12:53:33,684 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:53:44,401 INFO  [Log] Get to the website..... 
+2021-01-15 12:53:44,402 INFO  [Log] Loading Home Page 
+2021-01-15 12:53:44,402 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:53:45,064 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:53:46,126 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:53:46,171 INFO  [Log] User is on the home page 
+2021-01-15 12:53:46,171 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 12:53:46,171 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:53:46,648 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 12:53:46,648 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:53:46,857 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 12:53:46,857 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 12:53:47,490 INFO  [Log] Clicking object - searchButton 
+2021-01-15 12:53:54,697 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 12:53:54,697 INFO  [Log] Clicking object - addButton 
+2021-01-15 12:54:02,440 INFO  [Log] Click on Product Basket 
+2021-01-15 12:54:02,440 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 12:54:03,930 INFO  [Log] element click intercepted: Element <i class="icon-cart"></i> is not clickable at point (1406, 8). Other element would receive the click: <div class="ensBannerContainer">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59842}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fa4fb61894c36f37ecb5e1962326e583 
+2021-01-15 12:54:03,932 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 12:54:03,933 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 12:54:03,936 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:54:03,936 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:54:03,937 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:54:03,937 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:54:42,212 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:54:42,212 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:54:42,213 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:54:42,213 INFO  [Log] initialising properties.. 
+2021-01-15 12:54:42,213 INFO  [Log] Properties initialised! 
+2021-01-15 12:54:42,215 INFO  [Log] opening browser.. 
+2021-01-15 12:54:42,215 INFO  [Log] Chrome.. 
+2021-01-15 12:54:49,500 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:55:02,751 INFO  [Log] Get to the website..... 
+2021-01-15 12:55:02,751 INFO  [Log] Loading Home Page 
+2021-01-15 12:55:02,751 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:55:03,597 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:55:04,649 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:55:04,706 INFO  [Log] User is on the home page 
+2021-01-15 12:55:04,708 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 12:55:04,708 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:55:05,068 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 12:55:05,069 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:55:05,494 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 12:55:05,494 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 12:55:05,855 INFO  [Log] Clicking object - searchButton 
+2021-01-15 12:55:12,780 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 12:55:12,780 INFO  [Log] Clicking object - addButton 
+2021-01-15 12:55:19,079 INFO  [Log] Click on Product Basket 
+2021-01-15 12:55:19,079 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 12:55:20,577 INFO  [Log] element click intercepted: Element <a href="https://uk.rs-online.com/web/ca/basketsummary/" class="" title="1 item(s) in basket">...</a> is not clickable at point (1448, 8). Other element would receive the click: <div class="ensBannerContainer">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60004}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 45ab76ff4e4705d03eb12b1aa8fb4275 
+2021-01-15 12:55:20,577 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 12:55:20,577 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 12:55:20,577 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:55:20,577 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:55:20,577 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:55:20,577 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:57:34,832 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:57:34,833 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 12:57:34,834 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:57:34,834 INFO  [Log] initialising properties.. 
+2021-01-15 12:57:34,834 INFO  [Log] Properties initialised! 
+2021-01-15 12:57:34,836 INFO  [Log] opening browser.. 
+2021-01-15 12:57:34,836 INFO  [Log] Chrome.. 
+2021-01-15 12:57:42,176 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 12:58:00,403 INFO  [Log] Get to the website..... 
+2021-01-15 12:58:00,403 INFO  [Log] Loading Home Page 
+2021-01-15 12:58:00,403 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 12:58:01,129 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 12:58:02,476 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 12:58:02,498 INFO  [Log] User is on the home page 
+2021-01-15 12:58:02,498 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 12:58:02,498 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:58:02,762 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 12:58:02,762 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 12:58:02,904 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 12:58:02,904 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 12:58:03,372 INFO  [Log] Clicking object - searchButton 
+2021-01-15 12:58:10,562 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 12:58:10,562 INFO  [Log] Clicking object - addButton 
+2021-01-15 12:58:18,042 INFO  [Log] Click on Product Basket 
+2021-01-15 12:58:18,042 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 12:58:19,628 INFO  [Log] element click intercepted: Element <i class="icon-cart"></i> is not clickable at point (1406, 8). Other element would receive the click: <div class="ensBannerContainer">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60223}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 33fb652bc14babed2531cbac81980bc8 
+2021-01-15 12:58:19,628 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 12:58:19,628 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 12:58:19,634 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 12:58:19,634 INFO  [Log] **************************************************************************************** 
+2021-01-15 12:58:19,634 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 12:58:19,634 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:03:12,964 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:03:12,964 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 13:03:12,966 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:03:12,966 INFO  [Log] initialising properties.. 
+2021-01-15 13:03:12,966 INFO  [Log] Properties initialised! 
+2021-01-15 13:03:12,968 INFO  [Log] opening browser.. 
+2021-01-15 13:03:12,968 INFO  [Log] Chrome.. 
+2021-01-15 13:03:20,504 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 13:03:30,226 INFO  [Log] Get to the website..... 
+2021-01-15 13:03:30,226 INFO  [Log] Loading Home Page 
+2021-01-15 13:03:30,226 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 13:03:30,626 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 13:03:31,723 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 13:03:31,785 INFO  [Log] User is on the home page 
+2021-01-15 13:03:31,788 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 13:03:31,790 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:03:32,057 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 13:03:32,057 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:03:32,172 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 13:03:32,172 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 13:03:32,624 INFO  [Log] Clicking object - searchButton 
+2021-01-15 13:03:39,077 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 13:03:39,077 INFO  [Log] Clicking object - addButton 
+2021-01-15 13:03:55,282 INFO  [Log] Click on Product Basket 
+2021-01-15 13:03:55,282 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 13:03:56,944 INFO  [Log] element click intercepted: Element <div class="shBasket js-basket" data-loggedin="true">...</div> is not clickable at point (1448, 26). Other element would receive the click: <div class="ensBannerContainer">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60559}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c930991857309f06fabce7653ca9cf01 
+2021-01-15 13:03:56,944 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 13:03:56,944 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 13:03:56,944 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 13:03:56,944 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:03:56,944 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 13:03:56,944 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:05:49,982 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:05:49,983 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 13:05:49,983 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:05:49,983 INFO  [Log] initialising properties.. 
+2021-01-15 13:05:49,983 INFO  [Log] Properties initialised! 
+2021-01-15 13:05:49,985 INFO  [Log] opening browser.. 
+2021-01-15 13:05:49,985 INFO  [Log] Chrome.. 
+2021-01-15 13:05:57,140 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 13:06:11,570 INFO  [Log] Get to the website..... 
+2021-01-15 13:06:11,570 INFO  [Log] Loading Home Page 
+2021-01-15 13:06:11,570 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 13:06:12,543 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 13:06:13,835 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 13:06:13,861 INFO  [Log] User is on the home page 
+2021-01-15 13:06:13,861 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 13:06:13,861 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:06:14,146 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 13:06:14,146 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:06:14,366 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 13:06:14,367 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 13:06:14,868 INFO  [Log] Clicking object - searchButton 
+2021-01-15 13:06:21,603 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 13:06:21,603 INFO  [Log] Clicking object - addButton 
+2021-01-15 13:06:28,402 INFO  [Log] Click on Product Basket 
+2021-01-15 13:06:28,402 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 13:06:29,853 INFO  [Log] element click intercepted: Element <div class="amount" id="js-basketAmt">...</div> is not clickable at point (1486, 8). Other element would receive the click: <div id="ensNotifyBanner" class="ensNotifyBanner" role="dialog" aria-label="Consent Banner" aria-describedby="ensBannerDescription" style="display: block; left: 8.5px;">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c281455e0fead11151efbf1416e6ef13 
+2021-01-15 13:06:29,853 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 13:06:29,853 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 13:06:29,862 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 13:06:29,863 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:06:29,863 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 13:06:29,863 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:08:46,973 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:08:46,973 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 13:08:46,976 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:08:46,976 INFO  [Log] initialising properties.. 
+2021-01-15 13:08:46,976 INFO  [Log] Properties initialised! 
+2021-01-15 13:08:46,976 INFO  [Log] opening browser.. 
+2021-01-15 13:08:46,976 INFO  [Log] Chrome.. 
+2021-01-15 13:08:54,074 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 13:09:07,331 INFO  [Log] Get to the website..... 
+2021-01-15 13:09:07,331 INFO  [Log] Loading Home Page 
+2021-01-15 13:09:07,331 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 13:09:08,169 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 13:09:09,201 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 13:09:09,240 INFO  [Log] User is on the home page 
+2021-01-15 13:09:09,240 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 13:09:09,240 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:09:09,464 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 13:09:09,465 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:09:10,066 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 13:09:10,067 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 13:09:10,558 INFO  [Log] Clicking object - searchButton 
+2021-01-15 13:09:16,961 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 13:09:16,961 INFO  [Log] Clicking object - addButton 
+2021-01-15 13:09:22,920 INFO  [Log] Click on Product Basket 
+2021-01-15 13:09:22,921 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 13:09:24,353 INFO  [Log] element click intercepted: Element <div class="amount" id="js-basketAmt">...</div> is not clickable at point (1486, 8). Other element would receive the click: <div id="ensNotifyBanner" class="ensNotifyBanner" role="dialog" aria-label="Consent Banner" aria-describedby="ensBannerDescription" style="display: block; left: 8.5px;">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61070}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0a046f00d0fd5661fc83fc22e7ed04fa 
+2021-01-15 13:09:24,353 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 13:09:24,353 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:09:24,353 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 13:09:24,353 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:13:11,891 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:13:11,893 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 13:13:11,893 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:13:11,893 INFO  [Log] initialising properties.. 
+2021-01-15 13:13:11,893 INFO  [Log] Properties initialised! 
+2021-01-15 13:13:11,895 INFO  [Log] opening browser.. 
+2021-01-15 13:13:11,895 INFO  [Log] Chrome.. 
+2021-01-15 13:13:19,269 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 13:13:30,124 INFO  [Log] Get to the website..... 
+2021-01-15 13:13:30,124 INFO  [Log] Loading Home Page 
+2021-01-15 13:13:30,124 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 13:13:30,787 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 13:13:32,104 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 13:13:32,166 INFO  [Log] User is on the home page 
+2021-01-15 13:13:32,166 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 13:13:32,167 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:13:32,329 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 13:13:32,329 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:13:32,685 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 13:13:32,685 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 13:13:33,448 INFO  [Log] Clicking object - searchButton 
+2021-01-15 13:13:39,977 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 13:13:39,978 INFO  [Log] Clicking object - addButton 
+2021-01-15 13:13:46,445 INFO  [Log] Click on Product Basket 
+2021-01-15 13:13:46,445 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 13:13:47,860 INFO  [Log] element click intercepted: Element <div class="amount" id="js-basketAmt">...</div> is not clickable at point (1209, 8). Other element would receive the click: <div id="ensNotifyBanner" class="ensNotifyBanner" role="dialog" aria-label="Consent Banner" aria-describedby="ensBannerDescription" style="display: block; left: 8.5px;">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cf3c47aaa53a044abfdf6af87f09d4bd 
+2021-01-15 13:13:47,860 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 13:13:47,860 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 13:13:47,868 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 13:13:47,868 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:13:47,868 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 13:13:47,869 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:17:51,881 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:17:51,882 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 13:17:51,882 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:17:51,882 INFO  [Log] initialising properties.. 
+2021-01-15 13:17:51,882 INFO  [Log] Properties initialised! 
+2021-01-15 13:17:51,882 INFO  [Log] opening browser.. 
+2021-01-15 13:17:51,882 INFO  [Log] Chrome.. 
+2021-01-15 13:17:59,268 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 13:18:09,127 INFO  [Log] Get to the website..... 
+2021-01-15 13:18:09,127 INFO  [Log] Loading Home Page 
+2021-01-15 13:18:09,127 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 13:18:09,799 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 13:18:10,908 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 13:18:10,969 INFO  [Log] User is on the home page 
+2021-01-15 13:18:10,971 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 13:18:10,971 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:18:11,364 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 13:18:11,364 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:18:11,778 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 13:18:11,778 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 13:18:12,825 INFO  [Log] Clicking object - searchButton 
+2021-01-15 13:18:19,715 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 13:18:19,715 INFO  [Log] Clicking object - addButton 
+2021-01-15 13:18:27,784 INFO  [Log] Click on Product Basket 
+2021-01-15 13:18:27,784 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 13:18:29,621 INFO  [Log] element click intercepted: Element <div class="amount" id="js-basketAmt">...</div> is not clickable at point (1209, 8). Other element would receive the click: <div id="ensNotifyBanner" class="ensNotifyBanner" role="dialog" aria-label="Consent Banner" aria-describedby="ensBannerDescription" style="display: block; left: 8.5px;">...</div>
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PC-45497', ip: '192.168.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Owner\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61891}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 04b1dd6a4eaec347f9cdc77e5dc4ad02 
+2021-01-15 13:18:29,621 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 13:18:29,621 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 13:18:29,632 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 13:18:29,632 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:18:29,632 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 13:18:29,632 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:19:50,624 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:19:50,625 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 13:19:50,626 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:19:50,626 INFO  [Log] initialising properties.. 
+2021-01-15 13:19:50,626 INFO  [Log] Properties initialised! 
+2021-01-15 13:19:50,629 INFO  [Log] opening browser.. 
+2021-01-15 13:19:50,629 INFO  [Log] Chrome.. 
+2021-01-15 13:19:58,455 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 13:20:16,074 INFO  [Log] Get to the website..... 
+2021-01-15 13:20:16,075 INFO  [Log] Loading Home Page 
+2021-01-15 13:20:16,075 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 13:20:16,417 INFO  [Log] Clicking object - cookiesLink 
+2021-01-15 13:20:16,814 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 13:20:17,971 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 13:20:18,119 INFO  [Log] User is on the home page 
+2021-01-15 13:20:18,120 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 13:20:18,120 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:20:18,351 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 13:20:18,352 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:20:18,536 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 13:20:18,536 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 13:20:19,164 INFO  [Log] Clicking object - searchButton 
+2021-01-15 13:20:26,021 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 13:20:26,021 INFO  [Log] Clicking object - addButton 
+2021-01-15 13:20:32,070 INFO  [Log] Click on Product Basket 
+2021-01-15 13:20:32,070 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 13:20:44,213 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 13:20:44,213 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 13:20:44,215 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 13:20:44,215 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:20:44,215 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 13:20:44,215 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:23:38,286 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:23:38,286 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-15 13:23:38,286 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:23:38,287 INFO  [Log] initialising properties.. 
+2021-01-15 13:23:38,287 INFO  [Log] Properties initialised! 
+2021-01-15 13:23:38,288 INFO  [Log] opening browser.. 
+2021-01-15 13:23:38,288 INFO  [Log] Chrome.. 
+2021-01-15 13:23:45,509 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-15 13:23:51,881 INFO  [Log] Get to the website..... 
+2021-01-15 13:23:51,881 INFO  [Log] Loading Home Page 
+2021-01-15 13:23:51,881 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-15 13:23:53,023 INFO  [Log] Clicking object - cookiesLink 
+2021-01-15 13:23:53,483 INFO  [Log] Waiting until page loads completely.. 
+2021-01-15 13:23:54,578 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-15 13:23:54,615 INFO  [Log] User is on the home page 
+2021-01-15 13:23:54,615 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-15 13:23:54,623 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:23:54,864 INFO  [Log] Check if the Search box is loaded 
+2021-01-15 13:23:54,864 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-15 13:23:54,987 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-15 13:23:54,988 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-15 13:23:55,238 INFO  [Log] Clicking object - searchButton 
+2021-01-15 13:24:05,282 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-15 13:24:05,282 INFO  [Log] Clicking object - addButton 
+2021-01-15 13:24:10,876 INFO  [Log] Click on Product Basket 
+2021-01-15 13:24:10,877 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-15 13:24:21,948 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-15 13:24:21,949 ERROR [Log] AssertionError - Product Basket page 
+2021-01-15 13:24:21,952 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-15 13:24:21,952 INFO  [Log] **************************************************************************************** 
+2021-01-15 13:24:21,952 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-15 13:24:21,952 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:17:28,150 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:17:28,152 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 10:17:28,152 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:17:28,152 INFO  [Log] initialising properties.. 
+2021-01-17 10:17:28,152 INFO  [Log] Properties initialised! 
+2021-01-17 10:17:28,153 INFO  [Log] opening browser.. 
+2021-01-17 10:17:28,153 INFO  [Log] Chrome.. 
+2021-01-17 10:17:36,270 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 10:17:43,038 INFO  [Log] Get to the website..... 
+2021-01-17 10:17:43,039 INFO  [Log] Loading Home Page 
+2021-01-17 10:17:43,039 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 10:17:43,415 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 10:17:43,814 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 10:17:44,865 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 10:17:44,893 INFO  [Log] User is on the home page 
+2021-01-17 10:17:44,895 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 10:17:44,895 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:17:45,211 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 10:17:45,212 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:17:45,311 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 10:17:45,312 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 10:17:45,850 INFO  [Log] Clicking object - searchButton 
+2021-01-17 10:18:00,105 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 10:18:00,105 INFO  [Log] Clicking object - addButton 
+2021-01-17 10:18:05,743 INFO  [Log] Click on Product Basket 
+2021-01-17 10:18:05,743 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 10:18:17,714 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 10:18:17,714 INFO  [Log] Verifying partial text - basketProduct 
+2021-01-17 10:18:17,914 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 10:18:17,916 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 10:18:17,917 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:18:17,918 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 10:18:17,918 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:34:51,816 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:34:51,816 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 10:34:51,817 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:34:51,817 INFO  [Log] initialising properties.. 
+2021-01-17 10:34:51,817 INFO  [Log] Properties initialised! 
+2021-01-17 10:34:51,819 INFO  [Log] opening browser.. 
+2021-01-17 10:34:51,819 INFO  [Log] Chrome.. 
+2021-01-17 10:34:58,896 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 10:35:03,600 INFO  [Log] Get to the website..... 
+2021-01-17 10:35:03,601 INFO  [Log] Loading Home Page 
+2021-01-17 10:35:03,601 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 10:35:05,180 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 10:35:05,813 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 10:35:06,849 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 10:35:06,893 INFO  [Log] User is on the home page 
+2021-01-17 10:35:06,894 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 10:35:06,894 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:35:07,186 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 10:35:07,186 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:35:07,567 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 10:35:07,567 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 10:35:08,066 INFO  [Log] Clicking object - searchButton 
+2021-01-17 10:35:19,996 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 10:35:19,996 INFO  [Log] Clicking object - addButton 
+2021-01-17 10:35:25,618 INFO  [Log] Click on Product Basket 
+2021-01-17 10:35:25,618 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 10:35:36,844 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 10:35:36,845 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 10:35:37,165 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 10:35:37,169 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 10:35:37,169 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:35:37,169 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 10:35:37,170 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:43:54,621 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:43:54,622 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 10:43:54,622 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:43:54,622 INFO  [Log] initialising properties.. 
+2021-01-17 10:43:54,622 INFO  [Log] Properties initialised! 
+2021-01-17 10:43:54,624 INFO  [Log] opening browser.. 
+2021-01-17 10:43:54,624 INFO  [Log] Chrome.. 
+2021-01-17 10:44:01,782 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 10:44:06,826 INFO  [Log] Get to the website..... 
+2021-01-17 10:44:06,826 INFO  [Log] Loading Home Page 
+2021-01-17 10:44:06,827 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 10:44:08,432 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 10:44:08,949 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 10:44:09,983 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 10:44:10,006 INFO  [Log] User is on the home page 
+2021-01-17 10:44:10,006 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 10:44:10,006 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:44:10,281 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 10:44:10,281 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:44:10,377 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 10:44:10,377 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 10:44:10,673 INFO  [Log] Clicking object - searchButton 
+2021-01-17 10:44:23,948 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 10:44:23,948 INFO  [Log] Clicking object - addButton 
+2021-01-17 10:44:29,620 INFO  [Log] Click on Product Basket 
+2021-01-17 10:44:29,620 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 10:44:42,537 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 10:44:42,537 INFO  [Log] Checking Element Exists - basketProduct 
+2021-01-17 10:44:42,613 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 10:44:42,615 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 10:44:42,615 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:44:42,615 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 10:44:42,615 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:47:25,710 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:47:25,711 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 10:47:25,711 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:47:25,711 INFO  [Log] initialising properties.. 
+2021-01-17 10:47:25,711 INFO  [Log] Properties initialised! 
+2021-01-17 10:47:25,711 INFO  [Log] opening browser.. 
+2021-01-17 10:47:25,711 INFO  [Log] Chrome.. 
+2021-01-17 10:47:32,669 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 10:47:40,251 INFO  [Log] Get to the website..... 
+2021-01-17 10:47:40,251 INFO  [Log] Loading Home Page 
+2021-01-17 10:47:40,251 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 10:47:41,189 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 10:47:42,381 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 10:47:43,419 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 10:47:43,534 INFO  [Log] User is on the home page 
+2021-01-17 10:47:43,535 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 10:47:43,535 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:47:43,846 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 10:47:43,846 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:47:43,973 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 10:47:43,974 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 10:47:44,340 INFO  [Log] Clicking object - searchButton 
+2021-01-17 10:47:57,931 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 10:47:57,931 INFO  [Log] Clicking object - addButton 
+2021-01-17 10:48:03,630 INFO  [Log] Click on Product Basket 
+2021-01-17 10:48:03,630 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 10:48:15,305 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 10:48:15,305 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:48:15,305 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 10:48:15,306 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:53:27,287 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:53:27,288 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 10:53:27,288 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:53:27,288 INFO  [Log] initialising properties.. 
+2021-01-17 10:53:27,288 INFO  [Log] Properties initialised! 
+2021-01-17 10:53:27,288 INFO  [Log] opening browser.. 
+2021-01-17 10:53:27,288 INFO  [Log] Chrome.. 
+2021-01-17 10:53:34,132 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 10:53:40,300 INFO  [Log] Get to the website..... 
+2021-01-17 10:53:40,300 INFO  [Log] Loading Home Page 
+2021-01-17 10:53:40,300 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 10:53:41,565 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 10:53:42,233 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 10:53:43,252 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 10:53:43,272 INFO  [Log] User is on the home page 
+2021-01-17 10:53:43,273 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 10:53:43,273 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:53:43,382 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 10:53:43,382 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:53:43,472 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 10:53:43,472 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 10:53:43,753 INFO  [Log] Clicking object - searchButton 
+2021-01-17 10:53:55,264 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 10:53:55,264 INFO  [Log] Clicking object - addButton 
+2021-01-17 10:54:00,885 INFO  [Log] Click on Product Basket 
+2021-01-17 10:54:00,885 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 10:54:13,991 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 10:54:13,991 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:54:13,991 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 10:54:13,991 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:58:01,933 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:58:01,934 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 10:58:01,934 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:58:01,936 INFO  [Log] initialising properties.. 
+2021-01-17 10:58:01,936 INFO  [Log] Properties initialised! 
+2021-01-17 10:58:01,938 INFO  [Log] opening browser.. 
+2021-01-17 10:58:01,938 INFO  [Log] Chrome.. 
+2021-01-17 10:58:09,060 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 10:58:15,530 INFO  [Log] Get to the website..... 
+2021-01-17 10:58:15,530 INFO  [Log] Loading Home Page 
+2021-01-17 10:58:15,530 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 10:58:17,273 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 10:58:17,600 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 10:58:18,621 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 10:58:18,646 INFO  [Log] User is on the home page 
+2021-01-17 10:58:18,646 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 10:58:18,646 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:58:18,766 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 10:58:18,766 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:58:18,884 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 10:58:18,884 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 10:58:19,067 INFO  [Log] Clicking object - searchButton 
+2021-01-17 10:58:30,154 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 10:58:30,154 INFO  [Log] Clicking object - addButton 
+2021-01-17 10:58:35,626 INFO  [Log] Click on Product Basket 
+2021-01-17 10:58:35,626 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 10:58:47,506 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 10:58:47,507 FATAL [Log] Exception - Product Basket page 
+2021-01-17 10:58:47,512 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 10:58:47,512 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:58:47,512 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 10:58:47,512 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:59:40,658 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:59:40,659 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 10:59:40,660 INFO  [Log] **************************************************************************************** 
+2021-01-17 10:59:40,660 INFO  [Log] initialising properties.. 
+2021-01-17 10:59:40,660 INFO  [Log] Properties initialised! 
+2021-01-17 10:59:40,661 INFO  [Log] opening browser.. 
+2021-01-17 10:59:40,661 INFO  [Log] Chrome.. 
+2021-01-17 10:59:47,856 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 10:59:53,133 INFO  [Log] Get to the website..... 
+2021-01-17 10:59:53,134 INFO  [Log] Loading Home Page 
+2021-01-17 10:59:53,134 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 10:59:54,809 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 10:59:55,106 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 10:59:56,135 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 10:59:56,155 INFO  [Log] User is on the home page 
+2021-01-17 10:59:56,155 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 10:59:56,155 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:59:56,274 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 10:59:56,274 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 10:59:56,387 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 10:59:56,387 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 10:59:56,644 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:00:07,722 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:00:07,723 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:00:13,212 INFO  [Log] Click on Product Basket 
+2021-01-17 11:00:13,212 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:00:26,785 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 11:00:26,786 FATAL [Log] Exception - Product Basket page 
+2021-01-17 11:00:26,789 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:00:26,790 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:00:26,790 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:00:26,790 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:01:34,658 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:01:34,659 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:01:34,659 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:01:34,659 INFO  [Log] initialising properties.. 
+2021-01-17 11:01:34,659 INFO  [Log] Properties initialised! 
+2021-01-17 11:01:34,663 INFO  [Log] opening browser.. 
+2021-01-17 11:01:34,663 INFO  [Log] Chrome.. 
+2021-01-17 11:01:41,687 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:01:46,390 INFO  [Log] Get to the website..... 
+2021-01-17 11:01:46,390 INFO  [Log] Loading Home Page 
+2021-01-17 11:01:46,390 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:01:47,976 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:01:48,316 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:01:49,368 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:01:49,390 INFO  [Log] User is on the home page 
+2021-01-17 11:01:49,390 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:01:49,390 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:01:49,555 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:01:49,555 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:01:49,665 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:01:49,665 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:01:49,954 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:02:01,192 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:02:01,193 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:02:06,662 INFO  [Log] Click on Product Basket 
+2021-01-17 11:02:06,662 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:02:18,212 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 11:02:18,213 FATAL [Log] Exception - Product Basket page 
+2021-01-17 11:02:18,216 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:02:18,216 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:02:18,216 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:02:18,216 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:07:37,180 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:07:37,181 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:07:37,181 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:07:37,182 INFO  [Log] initialising properties.. 
+2021-01-17 11:07:37,182 INFO  [Log] Properties initialised! 
+2021-01-17 11:07:37,184 INFO  [Log] opening browser.. 
+2021-01-17 11:07:37,184 INFO  [Log] Chrome.. 
+2021-01-17 11:07:44,183 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:07:52,580 INFO  [Log] Get to the website..... 
+2021-01-17 11:07:52,580 INFO  [Log] Loading Home Page 
+2021-01-17 11:07:52,580 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:07:53,931 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:07:54,392 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:07:55,424 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:07:55,453 INFO  [Log] User is on the home page 
+2021-01-17 11:07:55,453 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:07:55,453 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:07:55,614 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:07:55,614 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:07:55,716 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:07:55,716 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:07:55,979 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:08:07,494 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:08:07,494 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:08:13,092 INFO  [Log] Click on Product Basket 
+2021-01-17 11:08:13,092 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:08:24,650 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 11:08:24,651 FATAL [Log] Exception - Product Basket page 
+2021-01-17 11:08:24,656 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:08:24,657 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:08:24,657 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:08:24,657 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:15:41,219 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:15:41,220 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:15:41,221 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:15:41,221 INFO  [Log] initialising properties.. 
+2021-01-17 11:15:41,221 INFO  [Log] Properties initialised! 
+2021-01-17 11:15:41,223 INFO  [Log] opening browser.. 
+2021-01-17 11:15:41,223 INFO  [Log] Chrome.. 
+2021-01-17 11:15:48,336 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:15:55,258 INFO  [Log] Get to the website..... 
+2021-01-17 11:15:55,259 INFO  [Log] Loading Home Page 
+2021-01-17 11:15:55,259 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:15:56,647 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:15:57,040 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:15:58,070 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:15:58,093 INFO  [Log] User is on the home page 
+2021-01-17 11:15:58,093 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:15:58,093 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:15:58,221 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:15:58,221 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:15:58,337 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:15:58,337 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:15:58,602 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:16:10,358 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:16:10,358 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:16:16,036 INFO  [Log] Click on Product Basket 
+2021-01-17 11:16:16,036 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:16:30,684 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 11:16:30,684 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:16:31,021 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 11:16:31,027 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:16:31,027 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:16:31,027 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:16:31,027 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:18:00,198 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:18:00,201 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:18:00,201 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:18:00,201 INFO  [Log] initialising properties.. 
+2021-01-17 11:18:00,201 INFO  [Log] Properties initialised! 
+2021-01-17 11:18:00,201 INFO  [Log] opening browser.. 
+2021-01-17 11:18:00,201 INFO  [Log] Chrome.. 
+2021-01-17 11:18:07,072 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:18:11,065 INFO  [Log] Get to the website..... 
+2021-01-17 11:18:11,065 INFO  [Log] Loading Home Page 
+2021-01-17 11:18:11,065 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:18:13,801 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:18:14,111 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:18:15,141 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:18:15,168 INFO  [Log] User is on the home page 
+2021-01-17 11:18:15,168 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:18:15,168 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:18:15,326 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:18:15,326 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:18:15,446 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:18:15,446 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:18:15,681 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:18:25,961 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:18:25,961 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:18:31,537 INFO  [Log] Click on Product Basket 
+2021-01-17 11:18:31,538 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:18:43,094 INFO  [Log] * Then the basketProductshould be the same as product 
+2021-01-17 11:18:43,094 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:18:43,563 INFO  [Log] Reading label from - product 
+2021-01-17 11:18:43,658 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 11:18:43,658 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:18:43,658 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:18:43,658 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:18:43,658 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:23:22,053 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:23:22,055 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:23:22,055 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:23:22,055 INFO  [Log] initialising properties.. 
+2021-01-17 11:23:22,055 INFO  [Log] Properties initialised! 
+2021-01-17 11:23:22,055 INFO  [Log] opening browser.. 
+2021-01-17 11:23:22,055 INFO  [Log] Chrome.. 
+2021-01-17 11:23:29,143 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:23:34,535 INFO  [Log] Get to the website..... 
+2021-01-17 11:23:34,535 INFO  [Log] Loading Home Page 
+2021-01-17 11:23:34,535 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:23:36,222 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:23:36,615 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:23:37,650 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:23:37,716 INFO  [Log] User is on the home page 
+2021-01-17 11:23:37,717 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:23:37,717 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:23:37,941 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:23:37,941 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:23:38,129 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:23:38,134 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:23:38,530 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:23:49,233 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:23:49,233 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:23:54,782 INFO  [Log] Click on Product Basket 
+2021-01-17 11:23:54,782 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:24:06,257 INFO  [Log] * Then the basketProductshould be the same as searchProduct 
+2021-01-17 11:24:06,257 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:24:06,631 INFO  [Log] Reading label from - searchProduct 
+2021-01-17 11:24:06,740 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 11:24:06,749 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:24:06,749 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:24:06,749 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:24:06,749 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:25:15,676 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:25:15,676 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:25:15,676 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:25:15,676 INFO  [Log] initialising properties.. 
+2021-01-17 11:25:15,676 INFO  [Log] Properties initialised! 
+2021-01-17 11:25:15,679 INFO  [Log] opening browser.. 
+2021-01-17 11:25:15,679 INFO  [Log] Chrome.. 
+2021-01-17 11:25:22,911 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:25:29,182 INFO  [Log] Get to the website..... 
+2021-01-17 11:25:29,182 INFO  [Log] Loading Home Page 
+2021-01-17 11:25:29,182 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:25:30,795 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:25:31,133 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:25:32,174 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:25:32,210 INFO  [Log] User is on the home page 
+2021-01-17 11:25:32,210 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:25:32,210 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:25:32,339 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:25:32,339 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:25:32,430 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:25:32,430 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:25:32,688 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:25:44,217 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:25:44,217 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:25:49,768 INFO  [Log] Click on Product Basket 
+2021-01-17 11:25:49,768 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:26:02,416 INFO  [Log] * Then the basketProductshould be the same as keyboard 
+2021-01-17 11:26:02,416 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:26:02,787 INFO  [Log] Reading label from - keyboard 
+2021-01-17 11:26:02,787 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 11:26:02,787 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:26:02,787 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:26:02,787 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:26:02,787 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:27:43,859 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:27:43,860 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:27:43,860 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:27:43,861 INFO  [Log] initialising properties.. 
+2021-01-17 11:27:43,861 INFO  [Log] Properties initialised! 
+2021-01-17 11:27:43,861 INFO  [Log] opening browser.. 
+2021-01-17 11:27:43,861 INFO  [Log] Chrome.. 
+2021-01-17 11:27:51,145 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:27:56,364 INFO  [Log] Get to the website..... 
+2021-01-17 11:27:56,364 INFO  [Log] Loading Home Page 
+2021-01-17 11:27:56,364 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:27:57,702 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:27:58,312 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:27:59,428 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:27:59,474 INFO  [Log] User is on the home page 
+2021-01-17 11:27:59,475 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:27:59,475 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:27:59,736 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:27:59,736 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:27:59,883 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:27:59,884 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:28:00,687 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:28:12,197 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:28:12,197 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:28:17,734 INFO  [Log] Click on Product Basket 
+2021-01-17 11:28:17,734 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:28:29,292 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:28:29,293 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:28:29,294 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:28:29,294 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:30:45,278 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:30:45,278 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:30:45,278 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:30:45,281 INFO  [Log] initialising properties.. 
+2021-01-17 11:30:45,281 INFO  [Log] Properties initialised! 
+2021-01-17 11:30:45,283 INFO  [Log] opening browser.. 
+2021-01-17 11:30:45,284 INFO  [Log] Chrome.. 
+2021-01-17 11:30:52,310 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:31:01,237 INFO  [Log] Get to the website..... 
+2021-01-17 11:31:01,237 INFO  [Log] Loading Home Page 
+2021-01-17 11:31:01,237 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:31:02,863 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:31:03,304 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:31:04,343 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:31:04,386 INFO  [Log] User is on the home page 
+2021-01-17 11:31:04,386 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:31:04,386 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:31:04,624 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:31:04,624 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:31:04,727 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:31:04,727 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:31:05,152 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:31:16,202 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:31:16,202 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:31:21,713 INFO  [Log] Click on Product Basket 
+2021-01-17 11:31:21,714 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:31:32,739 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-17 11:31:32,739 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:31:33,245 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 11:31:33,245 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:31:33,245 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:31:33,247 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:31:33,247 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:32:25,311 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:32:25,312 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:32:25,312 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:32:25,313 INFO  [Log] initialising properties.. 
+2021-01-17 11:32:25,313 INFO  [Log] Properties initialised! 
+2021-01-17 11:32:25,317 INFO  [Log] opening browser.. 
+2021-01-17 11:32:25,317 INFO  [Log] Chrome.. 
+2021-01-17 11:32:32,739 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:32:38,250 INFO  [Log] Get to the website..... 
+2021-01-17 11:32:38,250 INFO  [Log] Loading Home Page 
+2021-01-17 11:32:38,250 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:32:38,509 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:32:40,169 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:32:41,192 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:32:41,221 INFO  [Log] User is on the home page 
+2021-01-17 11:32:41,221 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:32:41,221 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:32:41,389 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:32:41,389 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:32:41,488 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:32:41,488 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:32:41,715 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:32:52,443 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:32:52,443 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:32:58,071 INFO  [Log] Click on Product Basket 
+2021-01-17 11:32:58,071 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:33:09,335 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-17 11:33:09,335 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:33:09,698 ERROR [Log] AssertionError - Product Basket page 
+2021-01-17 11:33:09,701 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:33:09,701 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:33:09,701 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:33:09,701 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:34:17,828 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:34:17,828 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:34:17,828 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:34:17,828 INFO  [Log] initialising properties.. 
+2021-01-17 11:34:17,830 INFO  [Log] Properties initialised! 
+2021-01-17 11:34:17,832 INFO  [Log] opening browser.. 
+2021-01-17 11:34:17,832 INFO  [Log] Chrome.. 
+2021-01-17 11:34:24,837 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:34:30,469 INFO  [Log] Get to the website..... 
+2021-01-17 11:34:30,469 INFO  [Log] Loading Home Page 
+2021-01-17 11:34:30,469 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:34:30,706 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:34:31,069 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:34:32,706 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:34:32,741 INFO  [Log] User is on the home page 
+2021-01-17 11:34:32,742 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:34:32,742 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:34:32,965 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:34:32,965 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:34:33,061 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:34:33,061 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:34:33,351 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:34:46,033 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:34:46,033 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:34:51,635 INFO  [Log] Click on Product Basket 
+2021-01-17 11:34:51,635 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:35:02,660 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-17 11:35:02,660 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:35:02,977 INFO  [Log] Search For Product Test has passed 
+2021-01-17 11:35:02,977 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:35:02,977 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:35:02,977 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:35:02,977 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:35:33,204 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:35:33,204 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-17 11:35:33,204 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:35:33,206 INFO  [Log] initialising properties.. 
+2021-01-17 11:35:33,206 INFO  [Log] Properties initialised! 
+2021-01-17 11:35:33,208 INFO  [Log] opening browser.. 
+2021-01-17 11:35:33,208 INFO  [Log] Chrome.. 
+2021-01-17 11:35:40,853 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-17 11:35:46,453 INFO  [Log] Get to the website..... 
+2021-01-17 11:35:46,453 INFO  [Log] Loading Home Page 
+2021-01-17 11:35:46,453 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-17 11:35:47,624 INFO  [Log] Clicking object - cookiesLink 
+2021-01-17 11:35:48,187 INFO  [Log] Waiting until page loads completely.. 
+2021-01-17 11:35:49,227 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-17 11:35:49,279 INFO  [Log] User is on the home page 
+2021-01-17 11:35:49,280 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-17 11:35:49,281 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:35:49,525 INFO  [Log] Check if the Search box is loaded 
+2021-01-17 11:35:49,525 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-17 11:35:49,666 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-17 11:35:49,666 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-17 11:35:50,039 INFO  [Log] Clicking object - searchButton 
+2021-01-17 11:36:01,668 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-17 11:36:01,668 INFO  [Log] Clicking object - addButton 
+2021-01-17 11:36:07,161 INFO  [Log] Click on Product Basket 
+2021-01-17 11:36:07,162 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-17 11:36:18,345 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-17 11:36:18,345 INFO  [Log] Reading label from - basketProduct 
+2021-01-17 11:36:18,635 INFO  [Log] Search For Product Test has passed 
+2021-01-17 11:36:18,635 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-17 11:36:18,635 INFO  [Log] **************************************************************************************** 
+2021-01-17 11:36:18,635 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-17 11:36:18,635 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:03:46,922 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:03:46,923 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:03:46,923 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:03:46,923 INFO  [Log] initialising properties.. 
+2021-01-18 10:03:46,923 INFO  [Log] Properties initialised! 
+2021-01-18 10:03:46,925 INFO  [Log] opening browser.. 
+2021-01-18 10:03:46,925 INFO  [Log] Chrome.. 
+2021-01-18 10:03:54,408 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:04:00,876 INFO  [Log] Get to the website..... 
+2021-01-18 10:04:00,876 INFO  [Log] Loading Home Page 
+2021-01-18 10:04:00,876 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:04:01,869 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:04:02,674 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:04:03,705 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:04:03,726 INFO  [Log] User is on the home page 
+2021-01-18 10:04:03,726 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:04:03,726 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:04:03,868 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:04:03,868 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:04:03,969 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:04:03,969 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:04:04,254 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:04:14,682 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:04:14,682 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:04:20,338 INFO  [Log] Click on Product Basket 
+2021-01-18 10:04:20,338 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:04:32,020 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:04:32,020 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:04:32,371 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:04:32,371 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:04:32,371 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:04:32,371 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:04:32,371 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:05:51,078 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:05:51,078 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:05:51,082 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:05:51,082 INFO  [Log] initialising properties.. 
+2021-01-18 10:05:51,082 INFO  [Log] Properties initialised! 
+2021-01-18 10:05:51,087 INFO  [Log] opening browser.. 
+2021-01-18 10:05:51,087 INFO  [Log] Chrome.. 
+2021-01-18 10:05:58,432 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:06:04,100 INFO  [Log] Get to the website..... 
+2021-01-18 10:06:04,101 INFO  [Log] Loading Home Page 
+2021-01-18 10:06:04,101 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:06:05,988 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:06:06,276 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:06:07,308 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:06:07,340 INFO  [Log] User is on the home page 
+2021-01-18 10:06:07,340 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:06:07,340 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:06:07,482 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:06:07,482 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:06:07,616 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:06:07,616 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:06:07,891 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:06:18,872 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:06:18,872 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:06:24,254 INFO  [Log] Click on Product Basket 
+2021-01-18 10:06:24,254 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:06:36,443 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:06:36,443 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:06:36,755 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:06:36,755 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:06:36,755 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:06:36,755 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:06:36,755 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:08:40,594 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:08:40,594 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:08:40,594 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:08:40,596 INFO  [Log] initialising properties.. 
+2021-01-18 10:08:40,596 INFO  [Log] Properties initialised! 
+2021-01-18 10:08:40,599 INFO  [Log] opening browser.. 
+2021-01-18 10:08:40,599 INFO  [Log] Chrome.. 
+2021-01-18 10:08:47,526 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:08:53,781 INFO  [Log] Get to the website..... 
+2021-01-18 10:08:53,781 INFO  [Log] Loading Home Page 
+2021-01-18 10:08:53,781 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:08:55,357 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:08:55,669 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:08:56,709 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:08:56,744 INFO  [Log] User is on the home page 
+2021-01-18 10:08:56,746 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:08:56,746 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:08:56,938 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:08:56,938 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:08:57,069 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:08:57,069 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:08:57,372 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:09:07,445 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:09:07,445 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:09:13,047 INFO  [Log] Click on Product Basket 
+2021-01-18 10:09:13,047 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:09:24,634 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:09:24,634 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:09:24,848 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:09:24,848 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:09:24,848 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:09:24,848 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:09:24,848 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:22:41,125 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:22:41,126 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:22:41,126 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:22:41,126 INFO  [Log] initialising properties.. 
+2021-01-18 10:22:41,126 INFO  [Log] Properties initialised! 
+2021-01-18 10:22:41,129 INFO  [Log] opening browser.. 
+2021-01-18 10:22:41,129 INFO  [Log] Chrome.. 
+2021-01-18 10:22:48,146 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:22:54,741 INFO  [Log] Get to the website..... 
+2021-01-18 10:22:54,741 INFO  [Log] Loading Home Page 
+2021-01-18 10:22:54,741 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:22:56,312 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:22:56,644 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:22:57,673 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:22:57,712 INFO  [Log] User is on the home page 
+2021-01-18 10:22:57,712 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:22:57,712 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:22:57,874 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:22:57,874 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:22:57,990 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:22:57,990 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:22:58,502 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:23:08,130 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:23:08,130 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:23:13,560 INFO  [Log] Click on Product Basket 
+2021-01-18 10:23:13,560 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:23:22,925 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:23:22,925 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:23:23,037 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:23:23,037 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:23:23,037 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:23:23,037 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:23:23,037 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:25:13,202 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:25:13,202 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:25:13,202 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:25:13,202 INFO  [Log] initialising properties.. 
+2021-01-18 10:25:13,202 INFO  [Log] Properties initialised! 
+2021-01-18 10:25:13,202 INFO  [Log] opening browser.. 
+2021-01-18 10:25:13,202 INFO  [Log] Chrome.. 
+2021-01-18 10:25:19,420 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:25:23,316 INFO  [Log] Get to the website..... 
+2021-01-18 10:25:23,316 INFO  [Log] Loading Home Page 
+2021-01-18 10:25:23,316 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:25:23,787 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:25:23,963 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:25:25,033 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:25:25,044 INFO  [Log] User is on the home page 
+2021-01-18 10:25:25,044 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:25:25,044 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:25:25,154 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:25:25,154 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:25:25,266 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:25:25,266 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:25:25,586 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:25:31,883 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:25:31,883 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:25:37,144 INFO  [Log] Click on Product Basket 
+2021-01-18 10:25:37,144 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:25:46,625 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:25:46,625 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:25:46,721 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:25:46,721 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:25:46,721 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:25:46,721 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:25:46,721 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:28:29,259 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:28:29,259 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:28:29,259 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:28:29,259 INFO  [Log] initialising properties.. 
+2021-01-18 10:28:29,259 INFO  [Log] Properties initialised! 
+2021-01-18 10:28:29,259 INFO  [Log] opening browser.. 
+2021-01-18 10:28:29,259 INFO  [Log] Chrome.. 
+2021-01-18 10:28:35,391 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:28:38,999 INFO  [Log] Get to the website..... 
+2021-01-18 10:28:38,999 INFO  [Log] Loading Home Page 
+2021-01-18 10:28:38,999 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:28:39,738 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:28:40,235 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:28:41,247 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:28:41,259 INFO  [Log] User is on the home page 
+2021-01-18 10:28:41,260 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:28:41,260 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:28:41,325 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:28:41,325 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:28:41,382 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:28:41,382 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:28:41,515 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:28:50,574 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:28:50,574 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:28:55,782 INFO  [Log] Click on Product Basket 
+2021-01-18 10:28:55,782 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:29:04,599 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:29:04,599 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:29:04,688 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:29:04,688 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:29:04,688 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:29:04,688 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:29:04,688 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:38:31,465 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:38:31,465 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:38:31,465 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:38:31,465 INFO  [Log] initialising properties.. 
+2021-01-18 10:38:31,466 INFO  [Log] Properties initialised! 
+2021-01-18 10:38:31,468 INFO  [Log] opening browser.. 
+2021-01-18 10:38:31,468 INFO  [Log] Chrome.. 
+2021-01-18 10:38:37,605 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:38:41,180 INFO  [Log] Get to the website..... 
+2021-01-18 10:38:41,180 INFO  [Log] Loading Home Page 
+2021-01-18 10:38:41,180 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:38:41,581 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:38:41,845 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:38:42,886 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:38:42,904 INFO  [Log] User is on the home page 
+2021-01-18 10:38:42,904 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:38:42,904 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:38:42,971 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:38:42,971 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:38:43,039 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:38:43,039 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:38:43,204 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:38:52,491 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:38:52,491 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:38:57,671 INFO  [Log] Click on Product Basket 
+2021-01-18 10:38:57,671 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:39:06,502 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:39:06,502 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:39:06,598 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:39:06,598 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:39:06,598 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:39:06,598 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:39:06,598 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:48:04,829 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:48:04,829 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:48:04,829 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:48:04,829 INFO  [Log] initialising properties.. 
+2021-01-18 10:48:04,829 INFO  [Log] Properties initialised! 
+2021-01-18 10:48:04,829 INFO  [Log] opening browser.. 
+2021-01-18 10:48:04,829 INFO  [Log] Chrome.. 
+2021-01-18 10:48:11,033 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:48:15,059 INFO  [Log] Get to the website..... 
+2021-01-18 10:48:15,060 INFO  [Log] Loading Home Page 
+2021-01-18 10:48:15,060 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:48:16,071 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:48:16,404 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:48:17,417 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:48:17,429 INFO  [Log] User is on the home page 
+2021-01-18 10:48:17,430 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:48:17,430 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:48:17,496 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:48:17,496 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:48:17,541 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:48:17,541 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:48:17,670 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:48:27,752 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:48:27,753 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:48:32,995 INFO  [Log] Click on Product Basket 
+2021-01-18 10:48:32,995 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:48:41,732 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:48:41,733 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:48:41,850 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:48:41,850 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:48:41,850 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:48:41,850 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:48:41,850 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:50:04,883 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:50:04,883 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-01-18 10:50:04,883 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:50:04,883 INFO  [Log] initialising properties.. 
+2021-01-18 10:50:04,883 INFO  [Log] Properties initialised! 
+2021-01-18 10:50:04,883 INFO  [Log] opening browser.. 
+2021-01-18 10:50:04,883 INFO  [Log] Chrome.. 
+2021-01-18 10:50:11,067 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-01-18 10:50:15,705 INFO  [Log] Get to the website..... 
+2021-01-18 10:50:15,705 INFO  [Log] Loading Home Page 
+2021-01-18 10:50:15,705 INFO  [Log] Waiting Until Element Is Visible - //*[@id="pageHeader"]/div/a 
+2021-01-18 10:50:16,197 INFO  [Log] Clicking object - cookiesLink 
+2021-01-18 10:50:16,868 INFO  [Log] Waiting until page loads completely.. 
+2021-01-18 10:50:17,891 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-01-18 10:50:17,908 INFO  [Log] User is on the home page 
+2021-01-18 10:50:17,908 INFO  [Log] * When the user enters keyboard into productBox 
+2021-01-18 10:50:17,908 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:50:17,990 INFO  [Log] Check if the Search box is loaded 
+2021-01-18 10:50:17,990 INFO  [Log] Waiting Until Element Is Visible - //*[@id="searchTerm"] 
+2021-01-18 10:50:18,057 INFO  [Log] Enter Product in Search box and click Search 
+2021-01-18 10:50:18,057 INFO  [Log] Entering data - keyboard into + productBox 
+2021-01-18 10:50:18,217 INFO  [Log] Clicking object - searchButton 
+2021-01-18 10:50:28,671 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-01-18 10:50:28,671 INFO  [Log] Clicking object - addButton 
+2021-01-18 10:50:33,926 INFO  [Log] Click on Product Basket 
+2021-01-18 10:50:33,926 INFO  [Log] Clicking object - viewBasketLink 
+2021-01-18 10:50:43,436 INFO  [Log] * Then the basketProductshould contain keyboard 
+2021-01-18 10:50:43,437 INFO  [Log] Reading label from - basketProduct 
+2021-01-18 10:50:43,554 INFO  [Log] Search For Product Test has passed 
+2021-01-18 10:50:43,554 INFO  [Log] Closing browser after running the Scenario.. 
+2021-01-18 10:50:43,554 INFO  [Log] **************************************************************************************** 
+2021-01-18 10:50:43,554 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-01-18 10:50:43,554 INFO  [Log] **************************************************************************************** 
