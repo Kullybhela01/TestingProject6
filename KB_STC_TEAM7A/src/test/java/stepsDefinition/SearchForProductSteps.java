@@ -1,6 +1,11 @@
 package stepsDefinition;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By.ByXPath;
 
 import cucumber.api.java.en.Given;
@@ -37,48 +42,57 @@ public class SearchForProductSteps extends BaseUtil {
 				Assert.fail(e.getMessage());
 			}
 	}
-	
-
-	@When("I enter {string} into {string} and search for the product")
-	public void i_enter_into(String validProduct, String productBox) throws InterruptedException {
-    	try {
-    		base.log.info("* When the user enters " + validProduct + " into " + productBox);
-    		base.keyword.waitUntilElementIsVisible(productBox);
+		
+	@When("I enter {string} into productBox and search for the product")
+	public void i_enter_into_productBox_and_search_for_the_product(String validProduct) throws InterruptedException {
+		try {
+    		base.log.info("* When the user enters " + validProduct + " into product box ");
+    		base.keyword.waitUntilElementIsVisible("productBox");
     		base.keyword.searchforProduct(validProduct);
     		base.keyword.sleep(Constants.sleepTimeOneSecond);		
     	} catch (Exception e) {
     		base.log.fatal("Exception - User inputs product");
     		Assert.fail(e.getMessage());
     	} 
-    }
-		
+	}
 
 	@When("I add the selected product to the basket")
-	public void i_add_the_selected_product_to_the_basket() throws InterruptedException {
-	   base.keyword.addProductToBasket();
+	public void i_add_the_selected_product_to_the_basket() throws InterruptedException {		
+	   try {
+	      base.keyword.addProductToBasket();
+	   } catch (Exception e) {
+		  base.log.fatal("Exception - User adds selected product to the basket");
+   		  Assert.fail(e.getMessage());
+	   }
 	}
 
 	@When("I go to the basket")
 	public void i_go_to_the_basket() throws InterruptedException {
-	   base.keyword.getToBasket();
+	   try {
+		base.keyword.getToBasket();
+	   } catch (AssertionError e) {
+		   base.log.fatal("Exception - User loads the basket page");
+	   	   Assert.fail(e.getMessage());
+	   }
 	}
 	
-	@Then("the {string} should be available in the basket")
-	public void the_should_be_available_in_the_basket(String string) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new cucumber.api.PendingException();
-	}
-	
-	@Then("the {string} should contain {string}")
-	public void the_should_contain(String basketProduct, String product) {
+	@Then("the basketProduct should contain {string}")
+	public void the_basketProduct_should_contain(String searchProduct) throws InterruptedException {
 		try {
-			base.log.info("* Then the " + basketProduct + "should contain keyboard");
-	
-		    String actual = base.keyword.readLabel(basketProduct);
-		    product = "Keyboard";
-		    
+			base.log.info("* Then the basketProduct should contain" + searchProduct);
+	    		    		
+			base.keyword.waitUntilPageLoadsComplelety();
+			base.keyword.waitUntilElementIsVisible("basketProduct");
+			
+			WebElement table = base.keyword.getElement("basketProduct");
+			List<WebElement> rows = table.findElements(By.tagName("tr"));		
+			 
+			String actual = rows.get(2).getText();      		 
+			
+			boolean productAdded = base.keyword.verifyPartialText(actual.toString(), searchProduct);
+			
 			// Compare
-			Assert.assertTrue(actual.contains(product));
+			Assert.assertTrue(productAdded);
 			base.log.info("Search For Product Test has passed");
 
 		} catch (Exception e) {
@@ -89,4 +103,5 @@ public class SearchForProductSteps extends BaseUtil {
 			Assert.fail(e.getMessage());
 		}
 	}
+	
 }

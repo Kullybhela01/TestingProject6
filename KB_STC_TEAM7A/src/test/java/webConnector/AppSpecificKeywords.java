@@ -15,7 +15,6 @@ public class AppSpecificKeywords extends GenericKeywords {
 			base.keyword.waitUntilElementIsVisible("homePageHeader");
 			//click the Cookies link at the top of the page
 			base.keyword.click("cookiesLink");
-
 			base.keyword.waitUntilPageLoadsComplelety();
 		} catch (Exception e) {
 			base.log.info(e.getMessage());
@@ -33,7 +32,6 @@ public class AppSpecificKeywords extends GenericKeywords {
 
 			// Click search button
 			base.keyword.click("searchButton");
-			base.keyword.sleep(5);
 
 		} catch (Exception e) {
 			base.log.info(e.getMessage());
@@ -44,11 +42,13 @@ public class AppSpecificKeywords extends GenericKeywords {
 		try {
 
 			base.log.info("Adding the first Product from search results to the product basket");
-
+			
+			base.keyword.waitUntilPageLoadsComplelety();
+			base.keyword.waitUntilElementIsVisible("addButton");
+			
 			// Click add to basket button 
 			base.keyword.click("addButton");
-			base.keyword.sleep(5);
-
+			
 		} catch (Exception e) {
 			base.log.info(e.getMessage());
 		}
@@ -60,8 +60,8 @@ public class AppSpecificKeywords extends GenericKeywords {
 			// Open product basket to validate the result
 			base.log.info("Click on Product Basket");
 			base.keyword.click("viewBasketLink");
-			base.keyword.sleep(5);
-
+			
+			
 		} catch (Exception e) {
 			base.log.info(e.getMessage());
 		}
