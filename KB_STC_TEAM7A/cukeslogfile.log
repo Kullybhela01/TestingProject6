@@ -5241,3 +5241,136 @@ Each (In a Pack of 5)
 2021-01-29 10:50:24,798 INFO  [Log] **************************************************************************************** 
 2021-01-29 10:50:24,798 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
 2021-01-29 10:50:24,798 INFO  [Log] **************************************************************************************** 
+2021-02-01 09:54:47,724 INFO  [Log] **************************************************************************************** 
+2021-02-01 09:54:47,725 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-02-01 09:54:47,726 INFO  [Log] **************************************************************************************** 
+2021-02-01 09:54:47,726 INFO  [Log] initialising properties.. 
+2021-02-01 09:54:47,726 INFO  [Log] Properties initialised! 
+2021-02-01 09:54:47,730 INFO  [Log] opening browser.. 
+2021-02-01 09:54:47,730 INFO  [Log] Chrome.. 
+2021-02-01 09:54:56,446 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-02-01 09:55:01,432 INFO  [Log] Get to the website..... 
+2021-02-01 09:55:01,432 INFO  [Log] Loading Home Page 
+2021-02-01 09:55:01,432 INFO  [Log] Waiting Until Element Is Visible - //*[@id='pageHeader']/div/a 
+2021-02-01 09:55:03,194 INFO  [Log] Clicking object - cookiesLink 
+2021-02-01 09:55:03,520 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 09:55:04,558 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-02-01 09:55:04,592 INFO  [Log] User is on the home page 
+2021-02-01 09:55:04,593 INFO  [Log] * When the user enters Keyboard into product box  
+2021-02-01 09:55:04,593 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2021-02-01 09:55:04,744 INFO  [Log] Check if the Search box is loaded 
+2021-02-01 09:55:04,744 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2021-02-01 09:55:04,881 INFO  [Log] Enter Product in Search box and click Search 
+2021-02-01 09:55:04,881 INFO  [Log] Entering data - Keyboard into + productBox 
+2021-02-01 09:55:05,220 INFO  [Log] Clicking object - searchButton 
+2021-02-01 09:55:12,184 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-02-01 09:55:12,184 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 09:55:13,326 INFO  [Log] Waiting Until Element Is Visible - (//*[@data-qa='product-tile'])[1]//*[@data-qa='add-to-basket-btn'] 
+2021-02-01 09:55:13,654 INFO  [Log] Clicking object - addButton 
+2021-02-01 09:55:14,346 INFO  [Log] Click on Product Basket 
+2021-02-01 09:55:14,346 INFO  [Log] Clicking object - viewBasketLink 
+2021-02-01 09:55:21,569 INFO  [Log] * Then the basketProduct should containKeyboard 
+2021-02-01 09:55:21,569 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 09:55:22,749 INFO  [Log] Waiting Until Element Is Visible - //*[@id='shoppingBasketForm:WebBasketLineWidgetActionVALIDATION_ERROR_EVENT']/table/tbody 
+2021-02-01 09:55:23,360 INFO  [Log] Verifying partial text - Schurter 0098.9201 Keyboard Sealing Kit
+RS Stock No. 301-5241
+Brand Schurter
+Mfr. Part No. 0098.9201
+RoHS status: Compliant
+Update
+|
+Remove
+£1.236
+Each (In a Pack of 5)
+£6.18
+  
+2021-02-01 09:55:23,360 INFO  [Log] Search For Product Test has passed 
+2021-02-01 09:55:23,361 INFO  [Log] Closing browser after running the Scenario.. 
+2021-02-01 09:55:23,361 INFO  [Log] **************************************************************************************** 
+2021-02-01 09:55:23,361 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-02-01 09:55:23,362 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:04:01,547 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:04:01,549 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-02-01 10:04:01,549 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:04:01,549 INFO  [Log] initialising properties.. 
+2021-02-01 10:04:01,549 INFO  [Log] Properties initialised! 
+2021-02-01 10:04:01,552 INFO  [Log] opening browser.. 
+2021-02-01 10:04:01,552 INFO  [Log] Chrome.. 
+2021-02-01 10:04:08,821 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-02-01 10:04:13,502 INFO  [Log] Get to the website..... 
+2021-02-01 10:04:13,502 INFO  [Log] Loading Home Page 
+2021-02-01 10:04:13,502 INFO  [Log] Waiting Until Element Is Visible - //*[@id='pageHeader']/div/a 
+2021-02-01 10:04:15,243 INFO  [Log] Clicking object - cookiesLink 
+2021-02-01 10:04:15,566 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 10:04:16,605 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-02-01 10:04:16,645 INFO  [Log] User is on the home page 
+2021-02-01 10:04:16,645 INFO  [Log] * When the user enters Keyboard into product box  
+2021-02-01 10:04:16,645 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2021-02-01 10:04:16,877 INFO  [Log] Check if the Search box is loaded 
+2021-02-01 10:04:16,877 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2021-02-01 10:04:16,986 INFO  [Log] Enter Product in Search box and click Search 
+2021-02-01 10:04:16,986 INFO  [Log] Entering data - Keyboard into + productBox 
+2021-02-01 10:04:17,352 INFO  [Log] Clicking object - searchButton 
+2021-02-01 10:04:23,515 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-02-01 10:04:23,515 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 10:04:24,657 INFO  [Log] Waiting Until Element Is Visible - (//*[@data-qa='product-tile'])[1]//*[@data-qa='add-to-basket-btn'] 
+2021-02-01 10:04:24,914 INFO  [Log] Clicking object - addButton 
+2021-02-01 10:04:25,629 INFO  [Log] Click on Product Basket 
+2021-02-01 10:04:25,629 INFO  [Log] Clicking object - viewBasketLink 
+2021-02-01 10:04:33,141 INFO  [Log] * Then the basketProduct should containKeyboard 
+2021-02-01 10:04:33,141 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 10:04:34,301 INFO  [Log] Waiting Until Element Is Visible - //*[@id='shoppingBasketForm:WebBasketLineWidgetActionVALIDATION_ERROR_EVENT']/table/tbody 
+2021-02-01 10:04:35,053 INFO  [Log] Verifying partial text - Schurter 0098.9201 Keyboard Sealing Kit
+RS Stock No. 301-5241
+Brand Schurter
+Mfr. Part No. 0098.9201
+RoHS status: Compliant
+Update
+|
+Remove
+£1.236
+Each (In a Pack of 5)
+£6.18
+  
+2021-02-01 10:04:35,053 INFO  [Log] Search For Product Test has passed 
+2021-02-01 10:04:35,053 INFO  [Log] Closing browser after running the Scenario.. 
+2021-02-01 10:04:35,053 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:04:35,054 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-02-01 10:04:35,054 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:05:49,686 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:05:49,686 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket** 
+2021-02-01 10:05:49,686 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:05:49,686 INFO  [Log] initialising properties.. 
+2021-02-01 10:05:49,686 INFO  [Log] Properties initialised! 
+2021-02-01 10:05:49,692 INFO  [Log] opening browser.. 
+2021-02-01 10:05:49,693 INFO  [Log] Chrome.. 
+2021-02-01 10:05:57,329 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2021-02-01 10:06:01,954 INFO  [Log] Get to the website..... 
+2021-02-01 10:06:01,954 INFO  [Log] Loading Home Page 
+2021-02-01 10:06:01,954 INFO  [Log] Waiting Until Element Is Visible - //*[@id='pageHeader']/div/a 
+2021-02-01 10:06:03,671 INFO  [Log] Clicking object - cookiesLink 
+2021-02-01 10:06:04,002 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 10:06:05,063 INFO  [Log] Checking Element Exists - homePageHeader 
+2021-02-01 10:06:05,085 INFO  [Log] User is on the home page 
+2021-02-01 10:06:05,085 INFO  [Log] * When the user enters Keyboard into product box  
+2021-02-01 10:06:05,085 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2021-02-01 10:06:05,210 INFO  [Log] Check if the Search box is loaded 
+2021-02-01 10:06:05,210 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2021-02-01 10:06:05,295 INFO  [Log] Enter Product in Search box and click Search 
+2021-02-01 10:06:05,295 INFO  [Log] Entering data - Keyboard into + productBox 
+2021-02-01 10:06:05,597 INFO  [Log] Clicking object - searchButton 
+2021-02-01 10:06:12,563 INFO  [Log] Adding the first Product from search results to the product basket 
+2021-02-01 10:06:12,563 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 10:06:13,641 INFO  [Log] Waiting Until Element Is Visible - (//*[@data-qa='product-tile'])[1]//*[@data-qa='add-to-basket-btn'] 
+2021-02-01 10:06:13,816 INFO  [Log] Clicking object - addButton 
+2021-02-01 10:06:14,274 INFO  [Log] Click on Product Basket 
+2021-02-01 10:06:14,274 INFO  [Log] Clicking object - viewBasketLink 
+2021-02-01 10:06:21,990 INFO  [Log] * Then the basketProduct should containKeyboard 
+2021-02-01 10:06:21,990 INFO  [Log] Waiting until page loads completely.. 
+2021-02-01 10:06:23,171 INFO  [Log] Waiting Until Element Is Visible - //*[@id='shoppingBasketForm:WebBasketLineWidgetActionVALIDATION_ERROR_EVENT']/table/tbody 
+2021-02-01 10:06:23,441 INFO  [Log] Verifying partial text - basketProduct 
+2021-02-01 10:06:23,713 INFO  [Log] Search For Product Test has passed 
+2021-02-01 10:06:23,714 INFO  [Log] Closing browser after running the Scenario.. 
+2021-02-01 10:06:23,714 INFO  [Log] **************************************************************************************** 
+2021-02-01 10:06:23,714 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket, the product is available in the basket              ** 
+2021-02-01 10:06:23,714 INFO  [Log] **************************************************************************************** 

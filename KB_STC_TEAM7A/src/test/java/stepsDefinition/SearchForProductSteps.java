@@ -1,12 +1,12 @@
 package stepsDefinition;
 
-import java.util.ArrayList;
+
 import java.util.List;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.By.ByXPath;
+
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -84,12 +84,7 @@ public class SearchForProductSteps extends BaseUtil {
 			base.keyword.waitUntilPageLoadsComplelety();
 			base.keyword.waitUntilElementIsVisible("basketProduct");
 			
-			WebElement table = base.keyword.getElement("basketProduct");
-			List<WebElement> rows = table.findElements(By.tagName("tr"));		
-			 
-			String actual = rows.get(2).getText();      		 
-			
-			boolean productAdded = base.keyword.verifyPartialText(actual.toString(), searchProduct);
+			boolean productAdded = base.keyword.verifyPartialText("basketProduct", searchProduct);
 			
 			// Compare
 			Assert.assertTrue(productAdded);

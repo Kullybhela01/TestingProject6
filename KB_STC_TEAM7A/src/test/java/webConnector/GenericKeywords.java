@@ -121,7 +121,7 @@ public class GenericKeywords extends BaseUtil {
 		base.log.info("Verifying partial text - " + object);
 		
 		String expected = data.trim();
-		String actual = object.trim();
+		String actual = getElement(object).getText().trim();
 		
 		if (actual.contains(expected)) {
 			return true;
